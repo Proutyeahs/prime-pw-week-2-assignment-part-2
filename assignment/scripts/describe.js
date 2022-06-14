@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// created a variable called name and assigned it Dane as the value
+// checking to see if name is equal to Mary if thats true we console.log "Hi Mary!"
+// if thats not true we console.log "How do you do?"
+// name does not = mary, its Dane so we console.log "How do you do?"
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// created a variable called secret and made a variable called code with the assigned value of 123
+// if the value of code is = 123 then assign "super" to the variable secret and change the value of code to itself times 2
+// if the value of code is greater than 250, assign "duper" to the variable secret
+// console.log the variable secret which will log "super"
 
 //CODE
 /*
@@ -70,7 +70,7 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
+// Create 3 variables, isStudent with the boolean value true, age with the numeric value 34 and zip with the numeric value of 55407.
 // 
 // 
 //
