@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// Create 3 variables, isStudent with the boolean value true, age with the numeric value 34 and zip with the numeric value of 55407.
-// 
-// 
-//
+// Created 3 variables, isStudent with the boolean value true, age with the numeric value 34 and zip with the numeric value of 55407.
+// if student is true and zip is greater than 8000, console log west coast (zip is not greater than 80000)
+// else student is false or age is less than 30 (both fail)
+// else student is true (it is) so we console log welcome to prime! If the previous statements were to fail it logs how about the weather?.
 
 //CODE
 /*
@@ -130,12 +130,13 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'blue';
+let colorTwo = 'red';
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  colorTwo = 'purple';
 }
 */
 
@@ -147,7 +148,7 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
-if (temp > 39 || time >= 4) {
+if (temp > 39 && time >= 4) {
   console.log('throw away the food!');
 }
 */
@@ -160,10 +161,10 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-if(minAge <= age) {
-  console.log('no entry');
-} else {
+if (minAge <= age) {
   console.log('enter');
+} else {
+  console.log('no entry');
 }
 */
 
